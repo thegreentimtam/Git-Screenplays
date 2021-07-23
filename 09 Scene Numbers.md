@@ -2,7 +2,7 @@
 
 When you are ready to start pre-production on your film, you need scene numbers. These are neccessary for scheduling, and Script Breakdowns.
 
-It's important that script numbers **do not change**, otherwise schedueles and breakdowns can get messed up. Once you add scene numbers, you can't change them. If you want a new scene, it will be given a letter.
+It's important that scene numbers **do not change**, otherwise schedueles and breakdowns can get messed up. Once you add scene numbers, you can't change them. If you want a new scene, it will be given a letter.
 
 ## Showing Scene Numbers
 
