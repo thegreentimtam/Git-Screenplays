@@ -1,3 +1,5 @@
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RzV258fNvCs/0.jpg)](https://youtu.be/RzV258fNvCs)
+
 # Starting a Project
 
 ## Create a Repository
