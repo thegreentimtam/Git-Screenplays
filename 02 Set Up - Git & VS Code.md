@@ -32,7 +32,7 @@ Press Enter.
 
 #### GUI
 
-When you instaled Git, the Git GUI may also have installed. If you are uncomfortable using the Terminal (don't be - it's actually not that difficult), you may wish to use this instead.
+When you instaled Git, the Git GUI may also have installed. If you are uncomfortable using the Terminal (don't be - it's actually not as scary as you think), you may wish to use this instead.
 
 Open Git GUI, and click the `Open a Folder` button. Navigate to your repository.
 
