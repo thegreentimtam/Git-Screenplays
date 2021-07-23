@@ -2,11 +2,11 @@
 
 ## Markdown
 
-Markdown is a markup syntax for writing documents. This document is written with Markdown. You'll use markdown for writing documents like Outlines and Character Breakdowns. Have a look [here](https://www.markdownguide.org/basic-syntax/) for the basic Markdown syntax guides.
+Markdown is a markup syntax for writing documents in plain, human-readable text. This document is written with Markdown. You'll use markdown for writing documents like Outlines and Character Breakdowns. Have a look [here](https://www.markdownguide.org/basic-syntax/) for the basic Markdown syntax guides.
 
 ## Fountain
 
-Fountain is a simple markup syntax for writing, editing and sharing screenplays in plain, human-readable text. Fountain allows you to work on your screenplay anywhere, on any computer or tablet, using any software that edits text files. It’s project was led by screenwriter John August, where it now forms the backend of his commercial screenwriting software for Mac OS, Highland.
+Fountain is a simple markup syntax for writing screenplays in plain, human-readable text.
 
 The golden rule of Fountain is simple: make it look like a screenplay. But if you'd like a little more guidance than that, here are some simple syntax rules to remember:
 
