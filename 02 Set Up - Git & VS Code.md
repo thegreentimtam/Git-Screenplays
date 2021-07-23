@@ -1,6 +1,6 @@
 # Setting Up Git and Visual Studio Code
 
-In my opinion, the best way of working on your screenplay is on a computer. You will need to install [Visual Studio Code](https://code.visualstudio.com/) and [Git](https://git-scm.com/). These software are available for Windows, Mac and Linux (including Chrome OS).
+The best way of working on your screenplay is on a computer. You will need to install [Visual Studio Code](https://code.visualstudio.com/) and [Git](https://git-scm.com/). These software are available for Windows, Mac and Linux (including Chrome OS).
 
 These are both trusted programs. Visual Studio Code is a Microsoft product, and Git is used by virtually every software developer in the world.
 
