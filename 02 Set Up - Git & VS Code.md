@@ -20,7 +20,7 @@ Select a folder to save the repository to. When asked if you'd like to Open the 
 
 #### Using the Terminal
 
-In VS Code, go to `Terminal > New Terminal`. Type in the following code:
+In VS Code, go to `Terminal > New Terminal`. Type in the following command:
 
 `git config --global user.name "Your Name"`
 

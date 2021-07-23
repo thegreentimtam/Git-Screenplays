@@ -4,13 +4,13 @@
 
 In Github, you can comment directly on changes made in Commits. Open a file and click on the `History` button in the top right. Here you can see a list of all the Commits made to the file.
 
-Click on a commit to open it. You can not comment on individual lines by click the `+` button at the left.
+Click on a commit to open it. You can now comment on individual lines by click the `+` button at the left.
 
 ## Blaming
 
 It's not very easy to give notes on a screenplay based on it's **Entire History**. A better way may be to use the Blame function. Open a file and click the `Blame` button in the top right.
 
-This shows you the file on the right, with the Commits to "Blame" on the left. Click on the commit to open it and give notes.
+This shows you the entire file on the right, with the Commits to "Blame" for each part of it on the left. Click on the commit to open it and give notes.
 
 ## Issues
 

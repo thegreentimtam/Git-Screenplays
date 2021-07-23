@@ -17,3 +17,7 @@ Now you can just commit, push and pull as you would normally.
 Pull Requests are the place we discuss changes made in Branches. Go to the `Pull Requests` tab in Github, and click `New Pull Request`. Set `main` as the base branch, and the branch you want to discuss as the `compare`.
 
 You can now discuss the pull request just like an Issue. Click the `Files Changes` tab in the pull request to see all the changes made and make comments on individual lines.
+
+## Merging
+
+Once they're ready, you can click the `Merge` button to combine these changes with your main repository.
