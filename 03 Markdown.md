@@ -1,5 +1,9 @@
 # Markdown
 
+[![Video](https://img.youtube.com/vi/DCSa1JpvJWE/0.jpg)](https://youtu.be/DCSa1JpvJWE)
+
+Click the image to load a video tutorial.
+
 Markdown is the format you'll use for every document other than your screenplay, such as Outlines and Character Breakdowns. Markdown files end in the `.md` extension.
 
 ## Set Up
