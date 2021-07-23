@@ -4,7 +4,7 @@ Markdown is the format you'll use for every document other than your screenplay,
 
 ## Set Up
 
-Go the `Extensions` tab in Visual Studio Code. This is the fifth button down, with five squares. Search for the Extension called `Markdown All-in-one`. This extension allows you to preview markdown files as you write. Click `Install`.
+Go the `Extensions` tab in Visual Studio Code. This is the fourth button down, with five squares. Search for the Extension called `Markdown All-in-one`. This extension allows you to preview markdown files as you write. Click `Install`.
 
 ## README
 
