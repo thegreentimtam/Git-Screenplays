@@ -19,5 +19,4 @@ For larger, more structural notes, Issues may be a better solution. In the repos
 - You can reference other issues and pull requests by typing `#`
 - You can tag members of he class with `@`.
 - You can drag and drop images to include them.
-- You can link to parts of the script. Click the line number in Github and bring up the option to Copy Permalink. You can then link to the line by typing `[text of link](https://github.com...the-url-you-copied)`, or by just pasting the whole URL.
-
+- You can link to parts of the script. Click the line number in Github and bring up the option to Copy Permalink, then paste it into your comment. Alternatively, use the structure `[text of link](https://github.com...the-url-you-copied)` to make it a bit nicer.
