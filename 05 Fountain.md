@@ -21,3 +21,5 @@ Author: Firstname Lastname
 ```
 
 The `_underscores_` will underline your title. You can now start writing your screenplay. Go [here](https://fountain.io/syntax) to learn more about Fountain syntax.
+
+Now blow us away with your first draft!
