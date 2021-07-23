@@ -1,5 +1,9 @@
 # Pushing to Github
 
+[![Video](https://img.youtube.com/vi/nXRLw4Wa6aw/0.jpg)](https://youtu.be/nXRLw4Wa6aw)
+
+Click the image to load a video tutorial.
+
 ## Committing
 
 At regular intervals you should commit changes. This provides a snapshot of your repository at that time, making it easy to look back at the changes to your script and files over time.
