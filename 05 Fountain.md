@@ -1,6 +1,6 @@
 # Fountain
 
-Fountan is the format you'll use to write your screenplay. Fountain files end in the `.fountain` extension.
+Fountain is the format you'll use to write your screenplay. Fountain files end in the `.fountain` extension.
 
 ## Set Up
 
