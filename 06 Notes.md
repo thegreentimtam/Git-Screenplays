@@ -1,5 +1,7 @@
 # Giving Notes
 
+[Click here](https://youtu.be/jySDRRcOriI) for a video version.
+
 ## Commenting on Commits
 
 In Github, you can comment directly on changes made in Commits. Open a file and click on the `History` button in the top right. Here you can see a list of all the Commits made to the file.

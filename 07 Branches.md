@@ -1,5 +1,7 @@
 # Branches
 
+[Click here](https://youtu.be/6NbuP1Yex_w) for a video version.
+
 Once you've finished your first draft, you should do any other changes in Branches. This makes it a lot easier to see what's changed and give notes. You might want to create one branch called `Second Draft`, or maybe many branches targetting different notes and different ideas. It's up to you.
 
 Other members of the class, with your permission, can also make suggested changes in their own branch.
