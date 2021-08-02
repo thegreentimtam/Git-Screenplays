@@ -1,5 +1,7 @@
 # Fountain
 
+[Click here](https://youtu.be/4o8pX0pJ3-c) for a video version.
+
 Fountain is the format you'll use to write your screenplay. Fountain files end in the `.fountain` extension.
 
 ## Set Up
