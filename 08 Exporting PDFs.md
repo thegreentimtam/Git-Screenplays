@@ -1,5 +1,7 @@
 # Exporting PDFs
 
+[Click here](https://youtu.be/6NbuP1Yex_w) for a video version.
+
 At some point, you'll want to Export a PDF of your script or documents. For example, to send to actors, or to print.
 
 ## Fountain
