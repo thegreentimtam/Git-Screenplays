@@ -1,6 +1,8 @@
 # Branches
 
-[Click here](https://youtu.be/6NbuP1Yex_w) for a video version.
+[Click here](https://youtu.be/FPJt9AjW7rg) for a video version.
+
+[Click here](https://youtu.be/7Hf07n06pF8) for adding notes within VS Code as you read.
 
 Once you've finished your first draft, you should do any other changes in Branches. This makes it a lot easier to see what's changed and give notes. You might want to create one branch called `Second Draft`, or maybe many branches targetting different notes and different ideas. It's up to you.
 
@@ -14,11 +16,15 @@ Now you can just commit, push and pull as you would normally.
 
 >If you want to create multiple branches, go back to the `main` branch before creating a new one.
 
-## Pull Requests
+## Creating Pull Requests
 
 Pull Requests are the place we discuss changes made in Branches. Go to the `Pull Requests` tab in Github, and click `New Pull Request`. Set `main` as the base branch, and the branch you want to discuss as the `compare`.
 
 You can now discuss the pull request just like an Issue. Click the `Files Changes` tab in the pull request to see all the changes made and make comments on individual lines.
+
+## Giving Notes
+
+If you want to give notes on a script, install the `Github Pull Requests and Issues` extension for VS Code. Clone the repository you want to give notes on and go to the Github tab. Right click the Pull Request and click `Checkout to Pull Request`. You will now automatically switch to that branch, and be able to add comments in the Github tab, or directly in the script by clicking the white line at the left of the editor.
 
 ## Merging
 
