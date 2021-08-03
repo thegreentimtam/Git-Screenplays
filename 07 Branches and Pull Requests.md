@@ -8,7 +8,7 @@ Once you've finished your first draft, you should do any other changes in Branch
 
 You might want to create one branch called `Second Draft`, or maybe many branches targetting different notes and different ideas. It's up to you.
 
-Branching is especially useful if you don't neccessarily agree with some notes. When I've been writing scripts, I've certainly had times when my teachers, collaborators or producers had notes that I disagreed with. But it's very difficult to explain to them why their ideas don't work unless you try it out. By creating a branch, you can make those changes completely independently of your main script. Often you'll find, while those ideas don't neccessarily work for your vision, you can see the problems in your script they are trying to address more clearly, and come up with your own way of dealing with them.
+Branching is especially useful if you don't neccessarily agree with some notes. When I've been writing scripts, I've certainly had times when my teachers, collaborators or producers had notes that I disagreed with. But it's very difficult to explain to them why their ideas don't work unless you try it out. By creating a branch, you can make those changes completely independently of the changes you want to make. Often you'll find, while those ideas don't neccessarily work for your vision, you can see the problems in your script they are trying to address more clearly, and come up with your own way of dealing with them. Or maybe they'll work, in which case you can apply them to the main version of your script.
 
 Other members of the class, with your permission, can also make suggested changes in their own branch.
 
