@@ -1,10 +1,14 @@
-# Branches
+# Branches and Pull Requests
 
 [Click here](https://youtu.be/FPJt9AjW7rg) for a video version.
 
 [Click here](https://youtu.be/7Hf07n06pF8) for adding notes within VS Code as you read.
 
-Once you've finished your first draft, you should do any other changes in Branches. This makes it a lot easier to see what's changed and give notes. You might want to create one branch called `Second Draft`, or maybe many branches targetting different notes and different ideas. It's up to you.
+Once you've finished your first draft, you should do any other changes in Branches. Branches are a way of grouping commits together in a separate version of your script, that you can then Merge with your version of the script. This is ideal for trying out ideas, and also getting notes in Pull Requests. 
+
+You might want to create one branch called `Second Draft`, or maybe many branches targetting different notes and different ideas. It's up to you.
+
+Branching is especially useful if you don't neccessarily agree with some notes. When I've been writing scripts, I've certainly had times when my teachers, collaborators or producers had notes that I disagreed with. But it's very difficult to explain to them why their ideas don't work unless you try it out. By creating a branch, you can make those changes completely independently of your main script. Often you'll find, while those ideas don't neccessarily work for your vision, you can see the problems in your script they are trying to address more clearly, and come up with your own way of dealing with them.
 
 Other members of the class, with your permission, can also make suggested changes in their own branch.
 
