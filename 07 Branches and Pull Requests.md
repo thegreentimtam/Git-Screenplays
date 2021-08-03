@@ -32,4 +32,4 @@ If you want to give notes on a script, install the `Github Pull Requests and Iss
 
 ## Merging
 
-Once they're ready, you can click the `Merge` button to combine these changes with your main repository.
+Once they're ready, you can click the `Merge` button to combine these changes with your main branch.
