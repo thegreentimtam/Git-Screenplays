@@ -4,7 +4,7 @@
 
 [Click here](https://youtu.be/7Hf07n06pF8) for adding notes within VS Code as you read.
 
-Once you've finished your first draft, you should do any other changes in Branches. Branches are a way of grouping commits together in a separate version of your script, that you can then Merge with the main version of the script. This is ideal for trying out ideas you're not sure of, and also getting notes in Pull Requests. 
+Once you've finished your first draft, you should do any other changes in Branches. Branches are a way of grouping commits together in a separate version of your script, that you can then Merge with the main version of the script. This is ideal for trying out ideas you're not sure of, and also allows others to give notes in Pull Requests. 
 
 You might want to create one branch called `Second Draft`, or maybe many branches targetting different notes and different ideas. It's up to you.
 
