@@ -6,7 +6,7 @@ Click the image to load a video tutorial.
 
 ## Committing
 
-At regular intervals you should commit changes. This provides a snapshot of your repository at that time, making it easy to look back at the changes to your script and files over time.
+At regular intervals you should commit changes. This is like a short summary of the changes you've made, making it easy to look back at the changes to your script and files over time.
 
 Go to the `Source Control` tab. Type in a brief description of your changes and press `Ctrl + Enter`. You've made a commit.
 
